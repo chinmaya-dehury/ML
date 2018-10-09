@@ -1,6 +1,6 @@
 '''
 Description of this python code can be found here:
-
+https://blogchinmaya.blogspot.com/2018/10/q-learn-solving-knight-and-princess.html
 '''
 
 import numpy as np
